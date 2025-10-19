@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-Academic-blue)
+![Python](https://img.shields.io/badge/Made%20with-Python%203.11-yellow)
 # GuardianX Harvard Project
 
 ### Lexicographic Decision Framework (LDF)
